@@ -13,6 +13,9 @@ This is a python script which can download you with the Youtube video thumbnail,
  2. [**Wget**](https://pypi.org/project/wget/)   
  One of the simplest way to download files in Python is via wget module, which doesn't require you to open the destination file.
  
+ 3. [**Youtube-dl**](https://pypi.org/project/youtube_dl/)  
+ Command-line program to download videos from Youtube and other video sites.
+ 
 ### Installing Dependencies
 
 **Windows**
