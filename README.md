@@ -3,7 +3,7 @@
 This is a python script which can download you with the Youtube video thumbnail, It will download the thumbnail at 720p resolution(which is the highest offered by Youtube).**You can download the thumbnail of anytype link**.
 
 **Sample of Thumbnails**
-![sample of thumbnails](https://user-images.githubusercontent.com/67730727/130006342-7ead38d8-3078-4b6f-aba2-6b832eb59479.png)
+![sample of thumbnails](https://user-images.githubusercontent.com/67730727/130099469-4580da0c-31df-4e61-9ba2-cb486bbe2faf.png)
 
 ### Dependencies
 
